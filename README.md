@@ -24,6 +24,7 @@ Presentation links
 * [Media-Match](https://github.com/weblinc/media-match): Test css media queries in javascript. A faster polyfill for matchMedia support.
 * [matchMedia.js](https://github.com/paulirish/matchMedia.js): matchMedia polyfill for testing media queries in JS
 * [enquire.js](https://github.com/WickyNilliams/enquire.js): Awesome Media Queries in JavaScript
+* [pointbreak.js](https://github.com/weblinc/pointbreak.js): PointBreak provides a friendly interface to matchMedia with named media queries and easy to create callbacks
 * [Nonresponsive](https://github.com/weblinc/nonresponsive): Media queries for the unsupportive IE6-8.
 * [Picture](https://github.com/weblinc/picture): Responsive images based on the 'picture' element proposal.
 * [Img-srcset](https://github.com/weblinc/img-srcset): Responsive images based on the 'srcset' attribute proposal.
